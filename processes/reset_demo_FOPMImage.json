@@ -1,0 +1,12 @@
+{
+	"@type":"Process",
+	"Name":"reset_demo_FOPMImage",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"reset_demo_FOPMImage.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":[],
+	"Variables":[]
+}
